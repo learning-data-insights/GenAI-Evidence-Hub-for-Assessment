@@ -23,12 +23,12 @@ This repository houses the project's public deliverables: protocol documents, co
 
 | Folder | Contents | Status |
 |---|---|---|
-| [`workflow/`](workflow/) | Study workflow covering planning, identification, screening and verification, coding, data preparation, analysis, and reporting | [Draft / Published] |
-| [`protocol/`](protocol/) | Selection (eligibility) criteria; links to the OSF pre-registration | [Draft / Published] |
-| [`training/`](training/) | Training manual and codebook for coders | [Draft / Published] |
-| [`templates/`](templates/) | Reusable templates (e.g., coding sheet template, spreadsheet templates) | [Draft / Published] |
-| [`data/`](data/) | Annotated coding sheet and its changelog | [Draft / Published] |
-| [`reports/`](reports/) | Reports, white papers, and practical guidance for schools, EdTech developers, and measurement researchers | [Planned] |
+| [`workflow/`](workflow/) | Study workflow covering planning, identification, screening and verification, coding, data preparation, analysis, and reporting | Published |
+| [`protocol/`](protocol/) | Selection (eligibility) criteria; links to the OSF pre-registration | Draft |
+| [`training/`](training/) | Training manual and codebook for coders | Draft |
+| [`templates/`](templates/) | Reusable templates (e.g., coding sheet templates and changelogs) | Draft |
+| [`data/`](data/) | Final, annotated coding sheet | Planned |
+| [`reports/`](reports/) | Reports, white papers, and practical guidance for schools, EdTech developers, and measurement researchers | Planned |
 
 ## Repository structure
 
