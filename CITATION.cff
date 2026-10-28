@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+type: dataset
+title: "GenAI Evidence Hub for Assessment"
+version: "1.0.0"
+date-released: "2026-12-31"
+repository-code: "https://github.com/learning-data-insights/GenAI-Evidence-Hub-for-Assessment"
+url: "https://www.learningdatainsights.com/our-projects/genai-evidence-hub"
+license: "CC-BY-4.0"
+license-url: "https://github.com/learning-data-insights/GenAI-Evidence-Hub-for-Assessment/blob/master/LICENSE"
+abstract: "GenAI can transform educational assessments by improving efficiency, engagement, equity, and personalization, but without shared evaluation standards, AI-generated assessments risk low-quality outcomes. This project analyzes over 250 recent research studies to identify leading evaluation practices and create guidance for schools, EdTech developers, and measurement researchers."
+keywords:
+  - generative AI
+  - educational assessment
+  - systematic literature review
+  - item generation
+  - formative feedback
+  - automated item scoring
+  - large language models
+  - inter-rater reliability
+authors:
+  - family-names: "Whitmer"
+    given-names: "John"
+    orcid: "https://orcid.org/0000-0002-3622-9822"
+  - family-names: "Andres"
+    given-names: "Alexis"
+    orcid: "https://orcid.org/0000-0001-7509-1574"
+  - family-names: "Kurimchak"
+    given-names: "Melanie"
+    orcid: "https://orcid.org/0009-0003-9000-299X"
+  - family-names: "Beiting-Parrish"
+    given-names: "Magdalen"
+    orcid: "https://orcid.org/0000-0002-3998-8672"
+  - family-names: "Wong"
+    given-names: "Aaron"
+  - family-names: "Li"
+    given-names: "Warren"
+  - family-names: "Choi"
+    given-names: "Heeryung"
+    orcid: "https://orcid.org/0000-0001-8955-8905"
+  - family-names: "Steadman"
+    given-names: "Christopher"
+    orcid: "https://orcid.org/0009-0003-8506-9049"
+  - family-names: "White"
+    given-names: "Alexander"
+  - family-names: "Nasiar"
+    given-names: "Nidhi"
