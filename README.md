@@ -70,6 +70,23 @@ Version numbers apply only to the **coding sheet** and its changelogs (see [`dat
 
 [Forthcoming]
 
+## Author Contributions
+
+Contributions follow the [CRediT (Contributor Roles Taxonomy)](https://credit.niso.org/).
+
+| Author | CRediT roles |
+|---|---|
+| John Whitmer | Conceptualization, Supervision, Project Administration, Funding Acquisition, Investigation, Data Curation, Writing – Review & Editing |
+| Alexis Andres | Methodology, Software, Data Curation, Formal Analysis, Investigation, Visualization, Writing – Original Draft, Writing – Review & Editing, Supervision |
+| Melanie Kurimchak | Project Administration, Resources, Formal Analysis, Visualization, Methodology, Writing – Original Draft, Writing – Review & Editing |
+| Magdalen Beiting-Parrish | Methodology, Investigation, Data Curation, Validation, Supervision, Writing – Original Draft |
+| Aaron Wong | Investigation, Data Curation, Methodology, Validation, Supervision |
+| Warren Li | Investigation, Data Curation, Validation |
+| Heeryung Choi | Investigation, Data Curation, Validation |
+| Christopher Steadman | Investigation, Data Curation, Validation |
+| Alexander White | Investigation, Data Curation, Validation |
+| Nidhi Nasiar | Investigation, Data Curation, Validation |
+
 ## License
 
 Unless otherwise noted, materials in this repository are licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
