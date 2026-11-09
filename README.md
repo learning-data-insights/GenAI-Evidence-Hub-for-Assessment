@@ -63,8 +63,11 @@ Version numbers apply only to the **coding sheet** and its changelogs (see [`dat
 
 ## Related resources
 
+- [Evidence Hub Repository](https://aievidencehub.org)
 - [Zotero library](https://www.zotero.org/groups/5536035/genai_evidence_hub_working_group/collections/MXYUPWKC/collection)
 - [Portal](https://aievidencehub.org/lib)
+- [IRR Calculator](https://learning-data-insights.github.io/genai-irr-calculator/)
+- [triageQ](https://triageq.ld-insights.com)
 
 ## How to cite
 
