@@ -15,7 +15,7 @@ This repository houses the project's public deliverables: protocol documents, co
 | Understand how the study was conducted, start to finish | [`workflow/`](workflow/) |
 | See which papers were included and why | [`protocol/`](protocol/) |
 | Learn how papers were coded | [`training/`](training/) |
-| Use or adapt our data collection tools | [`templates/`](templates/) |
+| Use or adapt our coding sheet templates | [`templates/`](templates/) |
 | Explore or reuse the annotated dataset | [`data/`](data/) |
 | Read findings and practical guidance | [`reports/`](reports/) |
 
@@ -35,7 +35,7 @@ This repository houses the project's public deliverables: protocol documents, co
 ```
 genai-evidence-hub/
 ├── README.md
-├── LICENSE                 # CC BY-SA 4.0
+├── LICENSE                 # CC BY 4.0
 ├── CITATION.cff            # Enables GitHub's "Cite this repository"
 ├── workflow/
 ├── protocol/
@@ -89,7 +89,7 @@ Contributions follow the [CRediT (Contributor Roles Taxonomy)](https://credit.ni
 
 ## License
 
-Unless otherwise noted, materials in this repository are licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+Unless otherwise noted, materials in this repository are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 ## Contact
 
