@@ -1,6 +1,6 @@
 # Reports
 
-This folder holds the reports produced by the GenAI Evidence Hub for Assessment. It also links to related papers published elsewhere. Unless a file says otherwise, reports in this folder are released under [LICENSE: CC BY 4.0 / CC BY-SA 4.0].
+This folder holds the reports produced by the GenAI Evidence Hub for Assessment. It also links to related papers published elsewhere. Unless a file says otherwise, reports in this folder are released under CC BY 4.0.
 
 ## Reports in this folder
 
@@ -10,13 +10,13 @@ Short briefs summarizing what the coded literature shows about how GenAI outputs
 
 | File | Domain | Status |
 |---|---|---|
-| `[filename]` | Automated Scoring (AS) | [Published / Forthcoming] |
-| `[filename]` | Automatic Item Generation (AIG) | [Published / Forthcoming] |
-| `[filename]` | Formative Feedback (FF) | [Published / Forthcoming] |
+| `[filename]` | Automated Scoring (AS) | [Forthcoming] |
+| `[filename]` | Automatic Item Generation (AIG) | [Forthcoming] |
+| `[filename]` | Formative Feedback (FF) | [Forthcoming] |
 
 ### Practitioner report
 
-`[filename]`: Practical insights for edtech practitioners, written with Michael Feldstein. [One sentence on audience and scope.]
+**The Standard of Proof for AI in EdTech: Applying Measurement Science to AI Use in Education Assessments**: Practical insights for edtech practitioners, written with Michael Feldstein. This report is written for EdTech product teams, procurement and implementation staff, educators, and families, and it summarizes what a structured review of 250 studies found about how AI is evaluated in three assessment tasks: automated scoring, item generation, and formative feedback.
 
 ### Overall synthesis report
 
