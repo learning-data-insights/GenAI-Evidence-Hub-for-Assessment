@@ -14,7 +14,7 @@ Changes to the coding approach after pre-registration are logged in the coding s
 
 | File | Description |
 |---|---|
-| `[filename]` | Paper selection criteria: inclusion and exclusion rules applied during screening. |
+| [`Paper Selection Criteria.pdf`](https://github.com/learning-data-insights/GenAI-Evidence-Hub-for-Assessment/blob/master/protocol/Paper%20Selection%20Criteria.pdf) | Paper selection criteria: inclusion and exclusion rules applied during screening. |
 
 ## How the protocol fits with the rest of the repository
 
