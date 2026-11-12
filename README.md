@@ -24,10 +24,10 @@ This repository houses the project's public deliverables: protocol documents, co
 | Folder | Contents | Status |
 |---|---|---|
 | [`workflow/`](workflow/) | Study workflow covering planning, identification, screening and verification, coding, data preparation, analysis, and reporting | Published |
-| [`protocol/`](protocol/) | Selection (eligibility) criteria; links to the OSF pre-registration | Draft |
-| [`training/`](training/) | Training manual and codebook for coders | Planned |
+| [`protocol/`](protocol/) | Selection (eligibility) criteria; links to the OSF pre-registration | Published |
+| [`training/`](training/) | Training manual and codebook for coders | Forthcoming |
 | [`templates/`](templates/) | Reusable templates (e.g., coding sheet templates and changelogs) | Published |
-| [`data/`](data/) | Final, annotated coding sheet | Planned |
+| [`data/`](data/) | Final, annotated coding sheet | Forthcoming |
 | [`reports/`](reports/) | Reports, white papers, and practical guidance for schools, EdTech developers, and measurement researchers | Draft |
 
 ## Repository structure
@@ -71,7 +71,11 @@ Version numbers apply only to the **coding sheet** and its changelogs (see [`dat
 
 ## How to cite
 
-[Forthcoming]
+If you use this repository or its data, please cite:
+
+Whitmer, J., Andres, A., Kurimchak, M., Beiting-Parrish, M., Wong, A., Li, W., Choi, H., Steadman, C., White, A., & Nasiar, N. (2026). *GenAI Evidence Hub for Assessment* (Version 1.0.0) [Data set]. GitHub. https://github.com/learning-data-insights/GenAI-Evidence-Hub-for-Assessment
+
+Machine-readable citation metadata is in `CITATION.cff`, which GitHub uses for its "Cite this repository" option.
 
 ## Author Contributions
 
